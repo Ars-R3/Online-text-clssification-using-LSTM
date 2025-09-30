@@ -3,8 +3,6 @@ Online Text Classification using LSTM
 
 Multi-label text classification of online comments using an LSTM model built with Keras/TensorFlow. The repository contains a single Jupyter notebook that provides an interactive, menu-driven workflow for training, evaluation, inference, and model saving.
 
-- Original repository: [Ars-R3/Online-text-clssification-using-LSTM](https://github.com/Ars-R3/Online-text-clssification-using-LSTM)
-
 
 Project structure
 -----------------
